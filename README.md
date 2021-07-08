@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+JSX          4 hrs 59 mins   ███████████████▒░░░░░░░░░   61.63 % 
+JavaScript   2 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.47 % 
+XML          28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+HTML         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Markdown     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+```
+<!--END_SECTION:waka-->
+
+<!--
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  7,936 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 663 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+-->
