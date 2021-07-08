@@ -51,6 +51,10 @@ Projects     12 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lamngoctam&show_icons=true&theme=gotham" alt="lamngoctam" />
+  
 <!--
 🚧 **my todoist stats:**
 🏆  7,936 Karma Points           
