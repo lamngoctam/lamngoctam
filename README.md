@@ -1,14 +1,21 @@
-### Hi there 👋
-<!--
-hi, i'm [Tam Lam](https://lamngoctam.github.io/), a PhD candidate in Mechanical Engineering at Curtin University, Australia.
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
--->
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://twitter.com/lamngoctam">
+  <img align="left" alt="Tam Lam | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/lamngoctam/">
+  <img align="left" alt="Tam Lam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=lamngoctam.lamngoctam)
+
+<br />
+
 - 🔭 I’m [Tam Lam](https://lamngoctam.github.io/), a PhD candidate in Mechanical Engineering at Curtin University, Australia.
 - 🌱 I’m currently working in Motion planning and Control algorithms for Autonomous Vehicles stack.
 - 👯 I’m looking to collaborate on Software Engineering field.
 - 💬 Ask me about anything, i am happy to help;
 - 📫 How to reach me: [email](mailto:lamngoctam@gmail.com) :)
-- 😄 Pronouns: Tâm
+- 😄 Pronouns: he/him (Tâm)
 - ⚡ Fun fact: Love to play scoccer.
 
 
