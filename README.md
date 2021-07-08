@@ -2,7 +2,7 @@
 <a href="https://twitter.com/lamngoctam">
   <img align="left" alt="Tam Lam | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/lamngoctam/">
+<a href="https://www.linkedin.com/in/ngoctamlam/">
   <img align="left" alt="Tam Lam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
