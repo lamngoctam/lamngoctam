@@ -41,6 +41,10 @@ Here are some ideas to get you started:
 -->
 
 📊 **this week i spent my time on:**
+- Thesis
+- Python/Matlab programming
+- Data Science/ML/DL reading/learning
+- Autonomous systems tasks from company
 <!-- 
 START_SECTION:waka
 ```text
