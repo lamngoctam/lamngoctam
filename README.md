@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 ```text
 Thesis       4 hrs 59 mins   ████████████████░░░░░░░░░   61.63 % 
 Paper        2 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.47 % 
-C+           28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Python       17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Projects     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Matlab       3 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   5.90 % 
+Python       2 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Projects     2 hrs           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 ```
 <!--END_SECTION:waka-->
 
