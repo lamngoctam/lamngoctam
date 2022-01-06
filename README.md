@@ -41,16 +41,17 @@ Here are some ideas to get you started:
 -->
 
 📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+<!-- 
+START_SECTION:waka
 ```text
 Thesis       4 hrs 59 mins   ████████████████░░░░░░░░░   61.63 % 
 Paper        2 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.47 % 
-Matlab       3 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   5.90 % 
+Matlab       3 hrs           ███████████░░░░░░░░░░░░░░   5.90 % 
 Python       2 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 Projects     2 hrs           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 ```
 <!--END_SECTION:waka-->
-
+-->
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lamngoctam&show_icons=true&theme=gotham" alt="lamngoctam" />
