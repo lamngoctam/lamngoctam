@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on Software Engineering field.
 - 💬 Ask me about anything, i am happy to help;
 - 📫 How to reach me: [email](mailto:lamngoctam@gmail.com) :)
-- 😄 Pronouns: he/him (Tâm)
+- 😄 Vietnamese name: Tâm
 - ⚡ Fun fact: Love to play scoccer.
 
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 📊 **this week i spent my time on:**
 - Thesis
-- Python/Matlab programming
+- C++/Python/Matlab programming
 - Data Science/ML/DL reading/learning
 - Autonomous systems tasks from company
 <!-- 
