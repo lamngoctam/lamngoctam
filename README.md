@@ -10,7 +10,7 @@
 
 <br />
 
-- 🔭 I’m [Tam Lam](https://lamngoctam.github.io/), a PhD candidate in Mechanical Engineering at Curtin University, Australia.
+- 🔭 I’m [Tam Lam, PhD](https://lamngoctam.github.io/) who are living in WA, Australia.
 - 🌱 I’m currently working in Motion planning and Control algorithms for Autonomous Vehicles stack.
 - 👯 I’m looking to collaborate on Software Engineering field.
 - 💬 Ask me about anything, i am happy to help;
