@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 -->
 
 📊 **this week i spent my time on:**
-- Thesis
+- Algorithms
 - C++/Python/Matlab programming
 - Data Science/ML/DL reading/learning
 - Autonomous systems tasks from company
