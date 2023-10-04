@@ -1,14 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/lamngoctam">
-  <img align="left" alt="Tam Lam | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ngoctamlam/">
-  <img align="left" alt="Tam Lam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=lamngoctam.lamngoctam)
-
-<br />
+### Profile
 
 - 🔭 I’m [Tam Lam, PhD](https://lamngoctam.github.io/) who are living in WA, Australia.
 - 🌱 I’m currently working in Motion planning and Control algorithms for Autonomous Vehicles stack.
