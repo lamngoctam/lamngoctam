@@ -1,9 +1,9 @@
 ### Profile
 
 - 🔭 I’m [Tam Lam, PhD](https://lamngoctam.github.io/) who are living in WA, Australia.
-- 🌱 I’m currently working in Motion planning and Control algorithms for Autonomous Vehicles stack.
-- 👯 I’m looking to collaborate on Software Engineering field.
-- 💬 Ask me about anything, i am happy to help;
+- 🌱 I’m currently working in Motion planning and Control algorithms for the Autonomous Vehicles stack.
+- 👯 I’m looking to collaborate in the Software Engineering field.
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [email](mailto:lamngoctam@gmail.com) :)
 - 😄 Vietnamese name: Tâm
 - ⚡ Fun fact: Love to play scoccer.
